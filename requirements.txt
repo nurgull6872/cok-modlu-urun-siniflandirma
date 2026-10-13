@@ -1,0 +1,11 @@
+# Google Colab ortamı, Python 3.13
+# görsel model tensorflow 2.20.0 ile eğitildi;  Colab'da sürüm 2.21.0 olmuş 
+numpy==2.1.3
+pandas==2.2.3
+scikit-learn==1.6.1
+tensorflow==2.20.0
+matplotlib==3.10.0
+pillow==11.3.0
+kagglehub==1.0.2
+# ek görevler: Gradio demosu
+gradio==6.29.0
